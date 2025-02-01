@@ -48,7 +48,7 @@ pip install pandas numpy matplotlib seaborn
 2. Open the notebook in Jupyter Notebook or any other compatible IDE.
 3. Run each cell sequentially to load the data, perform analysis, and view the results.
 ## Dataset
-* **Source:** [Add dataset source or mention "proprietary dataset"].
+* **Source:** You can use the give dataset.
 * **Description:** The dataset contains information on coffee sales, including regions, product categories, sales figures, and customer demographics.
 ## Insights and Visualizations
 
